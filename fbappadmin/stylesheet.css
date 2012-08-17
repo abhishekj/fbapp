@@ -1,0 +1,17 @@
+td, tr, select, input { font-family: verdana; font-size: 11px; color: #000000; line-height: 14px}
+
+
+.copyright { font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: #AAB0C4;text-decoration:none}
+
+
+.link { font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #ECEEF2;text-decoration:none}
+.link:hover { font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #ECEEF2;text-decoration:underline}
+body { font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #000000; line-height: 14px ; text-decoration: none} 
+
+.txtfield {  font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #000000; text-decoration: none; background-color: #FFFFFF; height: 20px; width: 150px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border: none}
+.txt {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #0048DA}
+.textlink {  font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #546179; text-decoration: none}
+.textlink:hover {  font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #546179; text-decoration: underline}
+.text1 {  font-family: Arial, Helvetica, sans-serif; font-size: 11px; text-decoration: none}
+.heading {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; text-decoration: none}
+.button {  height: 18px; width: 70px; font-family: Arial, Helvetica, sans-serif; font-size: 11px}
